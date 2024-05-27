@@ -6,7 +6,7 @@ This research project delves into the evolving dynamics of internal migration in
 The study focuses on analyzing content from The People's Daily, the official newspaper of the Communist Party of China (CPC), from 1980 to 2023. The primary goal is to decode the topics and sentiments expressed about internal migration, examining how they reflect broader governmental attitudes and policy shifts over the decades.
 
 ## Research Objectives
-- **Sentiment Analysis:** Utilize a custom-designed model that integrates RoBERTa and BiGRU to effectively process extended texts in Chinese, aiming to classify the underlying sentiments in the articles.
+- **Sentiment Analysis:** Utilize a custom-designed model that integrates RoBERTa and BiGRU to effectively process long Chinese Texts, aiming to classify the underlying sentiments in the articles.
 - **Topic Modeling:** Apply LDA (Latent Dirichlet Allocation) to identify prevalent themes and track their evolution over time within the dataset.
 
 ## Methodology
