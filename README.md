@@ -1,9 +1,5 @@
 # Attitudes of the Chinese Government Toward Internal Migrants: An Analysis of Evidence from The People's Daily
 
-## Author
-**Lu Tong**  
-University of California, San Diego (UCSD)
-
 ## Project Overview
 This research project delves into the evolving dynamics of internal migration in China, particularly within the constraints of the hukou system—a household registration policy that limits the mobility and rights of Chinese citizens. Despite such restrictions, internal migration has seen a significant uptick due to economic incentives and enforced relocations, like those for large-scale infrastructure developments.
 
@@ -14,10 +10,10 @@ The study focuses on analyzing content from The People's Daily, the official new
 - **Topic Modeling:** Apply LDA (Latent Dirichlet Allocation) to identify prevalent themes and track their evolution over time within the dataset.
 
 ## Methodology
-### Sentiment Classification
+- **Sentiment Classification:**
 The sentiment classification part of the project employs a hybrid model combining the robustness of RoBERTa with the sequence processing capabilities of BiGRU. This model is specifically tuned to handle the complexities of lengthy Chinese texts.
 
-### Topic Modeling
+- **Topic Modeling:**
 For topic analysis, the LDA model is used to extract and monitor thematic trends, providing insights into the shifts in discourse surrounding internal migrants and related policies.
 
 ## Results and Discussion
