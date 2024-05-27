@@ -53,6 +53,12 @@ The findings of this study highlight the nuanced shifts in the Chinese governmen
   <img src="Plot/sentiment_byyear_word.png" alt="Sentiment by Keywords Over Years" width="800"/>
 </p>
 
+### Topics
+![Screenshot of Interactive Visualization](/path/to/screenshot.png)
+For the full interactive experience, download the HTML file [here](Plot/lda_visualization.html).
+
+
+
 ## Additional Resources
 For further details on the methodology and full results, refer to the following links hosted on PlayDavis:
 - [Sentiment Analysis Detailed Results](https://linktoplaydavis.com/sentiment_analysis)
