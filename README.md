@@ -16,6 +16,12 @@ The sentiment classification part of the project employs a hybrid model combinin
 - **Topic Modeling:**
 For topic analysis, the LDA model is used to extract and monitor thematic trends, providing insights into the shifts in discourse surrounding internal migrants and related policies.
 
+## Data
+- **People's Daily:**
+- **Model Training:**
+
+## Data Overview
+
 ## Results and Discussion
 The findings of this study highlight the nuanced shifts in the Chinese government's approach to internal migration, influenced by socioeconomic developments and policy adjustments. Results are visualized through various graphs and discussed comprehensively in the sections below.
 
