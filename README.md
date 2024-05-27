@@ -11,7 +11,8 @@ The study focuses on analyzing content from The People's Daily, the official new
 
 ## Methodology
 - **Sentiment Classification:**
-The sentiment classification part of the project employs a hybrid model combining the robustness of RoBERTa with the sequence processing capabilities of BiGRU. This model is specifically tuned to handle the complexities of lengthy Chinese texts.
+The sentiment classification part of the project employs a hybrid model combining the robustness of RoBERTa with the sequence processing capabilities of BiGRU. This model is specifically tuned to handle the complexities of lengthy Chinese texts. To manage the inherent limitations of BERT’s maximum sequence length (512 tokens), we divide text into small chunks. Each segmented chunk is processed through BERT to generate contextual embeddings, capturing the nuanced semantics within that segment. These embeddings are then fed into a BiGRU layer, which processes the data bi-directionally. The model is optimized using the AdamW optimizer, incorporating a warm-up strategy for the learning rate to improve training dynamics and model convergence. Performance is evaluated using standard metrics such as F1-score and accuracy, assessed on a validation set to ensure the model’s efficacy and robustness in real-world applications. The model ended up with an accuracy of 0.847 on the test set
+
 
 - **Topic Modeling:**
 For topic analysis, the LDA model is used to extract and monitor thematic trends, providing insights into the shifts in discourse surrounding internal migrants and related policies.
