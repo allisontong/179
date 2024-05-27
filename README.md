@@ -41,6 +41,13 @@ The graph below depicts the count of each keyword report from 1970 to 2023.
   <img src="Plot/Presence_of_Keywords_Over_Year.png" alt="Presence of each Keywords Over Year" width="600"/>
 </p>
 
+- **Text Length:**
+The graph below depicts the distribution of text length for all news.
+<p align="center">
+  <img src="Plot/text_length.png" alt="Distribution of Text Length" width="600"/>
+</p>
+
+
 ## Results and Discussion
 The findings of this study highlight the nuanced shifts in the Chinese government's approach to internal migration, influenced by socioeconomic developments and policy adjustments. Results are visualized through various graphs and discussed comprehensively in the sections below.
 
