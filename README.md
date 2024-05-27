@@ -21,6 +21,10 @@ For topic analysis, the LDA model is used to extract and monitor thematic trends
 - **Model Training:** The training data is a collection of Chinese online news with sentiment label, obtained from https://www.datafountain.cn/competitions/350/datasets. 
 
 ## Data Overview
+![Presence of Total News Over Year](/Plot/distribution_of_total_news_over_year.png)
+
+![Presence of Realted Over Year](/Plot/Presence_of_Keywords_Over_Year.png)
+
 
 ## Results and Discussion
 The findings of this study highlight the nuanced shifts in the Chinese government's approach to internal migration, influenced by socioeconomic developments and policy adjustments. Results are visualized through various graphs and discussed comprehensively in the sections below.
