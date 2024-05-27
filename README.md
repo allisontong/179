@@ -61,6 +61,15 @@ The findings of this study highlight the nuanced shifts in the Chinese governmen
 </p>
 
 ### Topics
+
+<p align="center">
+  <img src="Plot/wordcloud_all.png" alt="Wordcloud for All News" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Plot/wordcloud_bykeyword.png" alt="Wordcloud by Keywords" width="800"/>
+</p>
+
 ![Screenshot of Interactive Visualization](Plot/LDA_sample_graph.png)
 
 For the full interactive experience, download the HTML file [here](https://htmlpreview.github.io/?https://github.com/allisontong/POLI-179/blob/main/Plot/lda_visualization.html).
