@@ -44,12 +44,14 @@ The graph below depicts the count of each keyword report from 1970 to 2023.
 ## Results and Discussion
 The findings of this study highlight the nuanced shifts in the Chinese government's approach to internal migration, influenced by socioeconomic developments and policy adjustments. Results are visualized through various graphs and discussed comprehensively in the sections below.
 
-### Graphs and Visualizations
-![Sentiment Over Time](/path/to/sentiment_graph.png)
-*Sentiment analysis of The People's Daily articles from 1980 to 2023.*
+### Sentiment Change
+<p align="center">
+  <img src="Plot/sentiment_byyear.png" alt="Sentiment Over Years" width="600"/>
+</p>
 
-![Topic Frequency](/path/to/topic_graph.png)
-*Frequency and changes of major topics identified through LDA.*
+<p align="center">
+  <img src="Plot/sentiment_byyear_word.png" alt="Sentiment by Keywords Over Years" width="800"/>
+</p>
 
 ## Additional Resources
 For further details on the methodology and full results, refer to the following links hosted on PlayDavis:
