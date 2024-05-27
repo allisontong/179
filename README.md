@@ -17,7 +17,7 @@ The sentiment classification part of the project employs a hybrid model combinin
 For topic analysis, the LDA model is used to extract and monitor thematic trends, providing insights into the shifts in discourse surrounding internal migrants and related policies.
 
 ## Data
-- **People's Daily:**
+- **People's Daily:**  The data from 1946-2003 were extracted from the People’s Daily archive available at https://www.laoziliao.net/. Data spanning 2018 to 2023 were collected from the official People’s Daily website at http://www.people.com.cn/. For the years 2004-2017, the dataset was built through download from Peking University People’s Database.
 - **Model Training:**
 
 ## Data Overview
