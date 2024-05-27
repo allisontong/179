@@ -55,6 +55,8 @@ The findings of this study highlight the nuanced shifts in the Chinese governmen
 
 ### Topics
 ![Screenshot of Interactive Visualization](Plot/LDA_sample_graph.png)
+View the interactive visualization [here](https://yourusername.github.io/POLI-179/Plot/lda_visualization.html).
+
 For the full interactive experience, download the HTML file [here](Plot/lda_visualization.html).
 
 
