@@ -75,12 +75,3 @@ The findings of this study highlight the nuanced shifts in the Chinese governmen
 For the full interactive experience, download the HTML file [here](https://htmlpreview.github.io/?https://github.com/allisontong/POLI-179/blob/main/Plot/lda_visualization.html).
 
 
-
-## Additional Resources
-For further details on the methodology and full results, refer to the following links hosted on PlayDavis:
-- [Sentiment Analysis Detailed Results](https://linktoplaydavis.com/sentiment_analysis)
-- [Topic Modeling Outcomes](https://linktoplaydavis.com/topic_modeling)
-
-## Citing This Work
-If you find this study useful in your research, please consider citing it as follows:
-
