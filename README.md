@@ -20,7 +20,7 @@ For topic analysis, the LDA model is used to extract and monitor thematic trends
 ## Data
 - **People's Daily:**  The data from 1946-2003 were extracted from the People’s Daily archive available at https://www.laoziliao.net/. Data spanning 2018 to 2023 were collected from the official People’s Daily website at http://www.people.com.cn/. For the years 2004-2017, the dataset was built through download from Peking University People’s Database.
 - **Model Training:** The training data is a collection of Chinese online news with sentiment label, obtained from https://www.datafountain.cn/competitions/350/datasets.
-- Data can be Download [here](https://drive.google.com/drive/folders/1BD47JpEY0SBbKPTvGTa8YMaOeLbfLkiY?usp=sharing)
+- Data can be download [here](https://drive.google.com/drive/folders/1BD47JpEY0SBbKPTvGTa8YMaOeLbfLkiY?usp=sharing)
 
 ## Data Descpritive Graph
 - **Presence of Total News Over Years:**
