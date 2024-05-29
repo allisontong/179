@@ -80,7 +80,11 @@ The findings of this study highlight the nuanced shifts in the Chinese governmen
 
 For the full interactive plot, access the HTML file [here](https://htmlpreview.github.io/?https://github.com/allisontong/POLI-179/blob/main/Plot/lda_visualization.html).
 
-## Work in Progress
-Separate LDA model by year/ keywords
+- **LDA by Year:**
+<p align="center">
+  <img src="Plot/Topic_over_year.png" alt="Topic Over yera" width="800"/>
+</p>
+
+For the full interactive plot, access the HTML file [here](https://htmlpreview.github.io/?https://github.com/allisontong/POLI-179/blob/main/Plot/yearlylda_visualization.html).
 
 
