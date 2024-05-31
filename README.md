@@ -53,9 +53,10 @@ The graph below depicts the distribution of text length for all news.
 The findings of this study highlight the nuanced shifts in the Chinese government's approach to internal migration, influenced by socioeconomic developments and policy adjustments. Results are visualized through various graphs and discussed comprehensively in the sections below.
 
 ### Sentiment Change
-- **Sentiment Across Years by Keywords:**
+- **Sentiment Across Years:**
 <p align="center">
-  <img src="Plot/sentiment_byyear.png" alt="Sentiment Over Years" width="600"/>
+  <img src="Plot/sentiment_byyear.png" alt="Sentiment Over Years" style="width:600px; display:inline-block;"/>
+  <img src="Plot/sentiment_prop_by_year.png" alt="Sentiment prop by Keywords Over Years" style="width:600px; display:inline-block;"/>
 </p>
 
 
